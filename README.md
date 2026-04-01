@@ -12,7 +12,9 @@ ____________
 
 > Otro texto extra más
 
-Colores 'rgb(9, 125, 186)' wuuu '#000000' y '#ffffff'
+##Agrego imagen:
+
+!["FOTITO"](https://myoctocat.com/assets/images/base-octocat.svg)svg
 
 
 fin del texto :>
