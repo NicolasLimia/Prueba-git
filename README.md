@@ -12,9 +12,10 @@ ____________
 
 > Otro texto extra más
 
-##Agrego imagen:
+## Agrego imagen:
 
-!["FOTITO"](https://myoctocat.com/assets/images/base-octocat.svg)svg
+!["FOTITO"](https://myoctocat.com/assets/images/base-octocat.svg)
 
+link al mejor canal de videojuegos: [Guinxu](https://youtube.com/@guinxu?si=arCmfI_BxEPcGheC)
 
 fin del texto :>
